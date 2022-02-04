@@ -1,4 +1,4 @@
-# **OysterCard Problem Solving Test**
+# **OysterCard Problem Solving**
 
 ## Problem Details
 
